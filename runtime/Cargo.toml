@@ -3,8 +3,8 @@ authors = ['Octopus Network <hi@oct.network>']
 edition = '2018'
 homepage = 'https://oct.network'
 license = 'Apache-2.0'
-name = 'appchain-barnacle-runtime'
-repository = 'https://github.com/octopus-network/barnacle'
+name = 'appchain-vnh-runtime'
+repository = 'https://github.com/vinhbhn/vnh'
 version = '3.0.0'
 
 [package.metadata.docs.rs]
